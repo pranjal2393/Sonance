@@ -13,7 +13,8 @@
   }
 
   #navbarSupportedContent {
-    margin-top: 25px;
+    margin-top: -20px;
+    background: #f6fcfc;
   }
 
   /* .slider_section {
